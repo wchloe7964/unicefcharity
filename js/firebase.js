@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyAsBa89jDBgSc9cBbpGbKbVENdfKCXu_7s",
-  authDomain: "votecharityorg.firebaseapp.com",
-  databaseURL: "https://votecharityorg-default-rtdb.firebaseio.com",
-  projectId: "votecharityorg",
-  storageBucket: "votecharityorg.appspot.com",
-  messagingSenderId: "531846425757",
-  appId: "1:531846425757:web:350618a9644090b4613874"
+  apiKey: "AIzaSyB0wYWVTDOd0y6ipXhtt9LoK4GTzL2fR_g",
+  authDomain: "unicefchar.firebaseapp.com",
+  databaseURL: "https://unicefchar-default-rtdb.firebaseio.com",
+  projectId: "unicefchar",
+  storageBucket: "unicefchar.appspot.com",
+  messagingSenderId: "229458540009",
+  appId: "1:229458540009:web:7cf23bec7d84758a3fc778"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
